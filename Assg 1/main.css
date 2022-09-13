@@ -1,0 +1,10 @@
+html {
+    font-size: 40px;
+    background-image: linear-gradient(to right,#ffefba,#ffffff) ;
+}
+
+h1{
+    background-image: linear-gradient(to right, #000000);
+    text-align: left,center;
+    font-family: copperplate;
+}
